@@ -1,4 +1,0 @@
-test
-qwe
-ss
-xx
